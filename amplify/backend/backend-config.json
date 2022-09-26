@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "unisysemployeesync079b3ac6": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
